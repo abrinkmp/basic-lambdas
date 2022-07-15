@@ -37,7 +37,7 @@ Visit https://www.mparticle.com/ to learn more and get started with the platform
 - call-iterable-api.py
 
 ### Ignore legacy Opt Out events
--opt-out-ignore.js
+- opt-out-ignore.js
 
 ## Lambda Testing Notes
 Python lambdas can be easily tested in PyCharm using the pycharm.py file.
